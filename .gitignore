@@ -1,0 +1,12 @@
+nohup.out
+*.sw*
+venv
+*.pyc
+.pytest_cache
+*.egg-info
+.vscode
+.env
+.idea
+.DS_Store
+.gradle
+build
